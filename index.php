@@ -66,7 +66,7 @@
                         <li>
                             <a style="color:white;" href="#"><i class="glyphicon glyphicon-ruble"></i> Obat<span class="glyphicon glyphicon-arrow-down pull-right"></span></a>
                             <ul class="nav nav-second-level">
-                                <li><a style="color: #ACFFAA;" href="tambahobat.php">Tambah Obat</a></li>
+                                <li><a style="color: #ACFFAA;" href="tambahobat.php">Tambah Data Obat</a></li>
                                 <li><a style="color: #ACFFAA;" href="dataobat.php">Data Obat</a></li>
                             </ul>
                         </li>
